@@ -12,7 +12,7 @@ public class test2 {
   	 System.out.println("메롱");
    }
     
-    System.out.println("오호라...");
+    System.out.println("오호라......");
 
     System.out.println("아 정말 수업은 길구나");
   }
